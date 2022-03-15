@@ -6,7 +6,7 @@ sudo apt upgrade
 sudo apt  install dkms bc wget git
 sudo git clone https://github.com/aircrack-ng/rtl8188eus.git
 sudo rmmod r8188eu.ko
-sudo cd rtl8188eus
+cd rtl8188eus
 sudo wget https://raw.githubusercontent.com/PentesterSoham/rtl8188eus_driver/main/rtw_br_ext.c_error --output-document=/tmp/rtl8188eus/core/rtw_br_ext.c
 cd /tmp/rtl8188eus/core
 sudo make && sudo make install

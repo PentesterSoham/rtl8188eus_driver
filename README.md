@@ -10,4 +10,4 @@ cd rtl8188eus_driver
 
 chmod +x auto-rtl8188eus-driver.sh
 
-./auto-rtl8188eus-driver.sh
+sudo ./auto-rtl8188eus-driver.sh

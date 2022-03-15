@@ -2,7 +2,7 @@ echo "  -Author, soham biswas "
 echo "check out my Youtube channel :-  https://www.youtube.com/channel/UCdEAvbBJVPw29L-FZMt5rQA "
 cd /tmp
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 sudo apt  install dkms bc wget git
 sudo git clone https://github.com/aircrack-ng/rtl8188eus.git
 sudo rmmod r8188eu.ko

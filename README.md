@@ -5,6 +5,7 @@ This is a automated bash script for installing rtl8188eus chipset driver for mon
 How to run this script ?
 Run the following commands
 
+git clone https://github.com/PentesterSoham/rtl8188eus_driver.git
 
 cd rtl8188eus_driver
 

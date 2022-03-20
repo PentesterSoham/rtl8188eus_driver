@@ -1,6 +1,6 @@
 # rtl8188eus_driver
-This is a automated bash script for installing rtl8188eus chipset driver for monitor mode and packet injection in your local system(linux).
-
+This is a automated bash script for installing rtl8188eus chipset driver for enabling the monitor mode and packet injection in your local system(linux).
+[Tested on kali_linux]
 
 How to run this script ?
 Run the following commands

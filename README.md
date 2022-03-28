@@ -18,8 +18,8 @@ If you stuck any where then watch this video:- https://youtu.be/zGChBFkIrqw
 
 
 # Dear,BoysAndGirls
-Make sure that in your kali linux repository value
-"kali-rolling" and "kali-last-snapshot" branch should be enable or you can get any error...
+Make sure that in your kali linux repository contain
+"kali-rolling" and "kali-last-snapshot" branches.. or you can get any error...
 
 For that you can watch this YT video
 

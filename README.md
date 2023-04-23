@@ -33,3 +33,5 @@ OR
 You can download it manully ..
 
 ![git](https://user-images.githubusercontent.com/96686822/160432049-a2087400-490c-42f3-974b-f4d509badb76.png)
+
+> This script is updated time to time(potentially solving new bugs).
